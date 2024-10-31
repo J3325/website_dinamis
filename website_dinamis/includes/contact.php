@@ -11,7 +11,6 @@
             <p class="lead">jangan khawatir mimpi mimpi lain bisa diciptakan.</p>
             <p class="lead">"Windah Basudara."</p>
             <div class="mt-3">
-               //gif
                 <img src="https://i.pinimg.com/originals/f3/ff/8f/f3ff8f3d2a22f5664c88a0d132996b21.gif" alt="GIF" class="img-fluid rounded" style="max-width: 100%;">
             </div>
         </div>
